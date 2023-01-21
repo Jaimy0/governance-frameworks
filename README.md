@@ -16,7 +16,7 @@ Het Cloud Adoption Framework for Azure bestaat uit 7 fases (Microsoft, n.d.):
 
 ![MS CAF Phases](https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/industry/retail/media/scenario-guidance-overview.png)(Microsoft, n.d.)
 
-Als je [hier](https://www.youtube.com/watch?v=3g4JYwxz-cE) klikt, vind je nog een aantal manieren hoe het Cloud Adoption Framework for Azure kan helpen.
+Als je [hier](https://www.youtube.com/watch?v=3g4JYwxz-cE) (IT Ops Talk, 2020) klikt, vind je nog een aantal manieren hoe het Cloud Adoption Framework for Azure kan helpen.
 
 ## Governance
 
@@ -51,6 +51,8 @@ Het Cloud Adoption Framework for Azure heeft natuurlijk ook zwakke punten. De zw
 Beide frameworks hebben hetzelfde doel. Dit doel is om organisaties te helpen met best practices om te zorgen dat organisaties op zo’n manier kunnen migreren naar de cloud dat dit overeenkomt met haar business en technische voorwaarden. Een verschil tussen deze frameworks is dat de ene specifiek Azure services benoemt en de andere specifiek AWS services.
 
 ## Bronnen
+
+IT Ops Talk. (2020, February 20). Five ways the Microsoft Cloud Adoption Framework can help you. YouTube. Retrieved January 21, 2023, from https://www.youtube.com/watch?v=3g4JYwxz-cE
 
 Microsoft. (n.d.). CAF Phases. Microsoft Learn. Retrieved January 21, 2023, from https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/industry/retail/media/scenario-guidance-overview.png
 
